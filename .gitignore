@@ -16,5 +16,10 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+<<<<<<< HEAD
 
 .vercel
+=======
+
+.vercel
+>>>>>>> b748f49 (first commit)
