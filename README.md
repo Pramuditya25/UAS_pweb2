@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramudity</h1>
+<h1 align="center">Hi 👋, I'm Pramuditya</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [portofolio-pramuditya.my.id](https://portfolio-pramuditya.my.id)
